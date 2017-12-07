@@ -1,2 +1,0 @@
-# CourseraDemo
-Demo
